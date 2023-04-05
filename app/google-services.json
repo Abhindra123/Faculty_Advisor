@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655490601192",
+    "project_id": "facultyadvisor-a3c66",
+    "storage_bucket": "facultyadvisor-a3c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655490601192:android:fc7bffb762a7c050f8b95d",
+        "android_client_info": {
+          "package_name": "com.sonait.facultyadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655490601192-ue52e2pnok7f5okeuib5t5ckiin2n05e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPm82gyZbdOgKHbklJBNX6_IpRjtrn7kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655490601192-ue52e2pnok7f5okeuib5t5ckiin2n05e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
